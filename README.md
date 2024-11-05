@@ -69,22 +69,22 @@ In this project, I aimed to explore and visualize sales data to provide insights
   ### - Data Visualization: 
              - Building an interactive Power BI dashboard for clear and actionable visual insights.
 
-Repository Contents
-This repository includes:
-•	Data Files: Raw sales and customer data used for analysis.
-•	SQL Queries: Scripts for data extraction and insight generation.
-•	Power BI Dashboard: Power BI file showcasing the interactive dashboard.
-•	and screenshots
-Skills Demonstrated
-This repository serves as a showcase of my skills developed during the bootcamp, highlighting practical application in retail sales analysis through data-driven decision-making tools by 
-•	Data exploration and cleansing
-•	Metric calculation and KPI tracking
-•	Dashboard creation for financial insights
-•	Technical and analytical skills to present data in a way that supports strategic decision-making in retail sales.
+## REPOSITORY CONTENTS
+     This repository includes:
+      - Data Files: Raw sales and customer data used for analysis.  
+      - SQL Queries: Scripts for data extraction and insight generation.
+      - Power BI Dashboard: Power BI file showcasing the interactive dashboard and screenshots.
+      
+## SKILLS DEMONSTRATED
+    This repository serves as a showcase of my skills developed during the bootcamp, highlighting practical application in retail sales analysis through data-driven decision-making tools by 
+      -	Data exploration and cleansing
+      -	Metric calculation and KPI tracking
+      -	Dashboard creation for financial insights
+      -	Technical and analytical skills to present data in a way that supports strategic decision-making in retail sales.
 
-
-Project Goals and Outcomes
-This Capstone Project reflects the skills and knowledge gained throughout the bootcamp, applying data analysis best practices to a real-world scenario. It demonstrates my ability to analyze data effectively and generate insightful visualizations to support strategic business decisions. The interactive dashboard is designed to enable easy exploration of sales trends and regional performance, helping stakeholders make data-informed financial decisions.
-Conclusion
+## PROJECT GOALS and OUTCOMES
+    This Capstone Project reflects the skills and knowledge gained throughout the bootcamp, applying data analysis best practices to a real-world scenario. It demonstrates my  ability to analyze data effectively and generate insightful visualizations to support strategic business decisions. The interactive dashboard is designed to enable easy exploration of sales trends and regional performance, helping stakeholders make data-informed financial decisions.
+    
+## CONCLUSION
 This Capstone Project represents the culmination of my learning journey in data analysis. 
 
