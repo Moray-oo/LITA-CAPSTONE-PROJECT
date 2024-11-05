@@ -3,6 +3,7 @@ Welcome to the repository for my Capstone Project, completed as part of a three-
 
 
 
+
 ## PROJECT OVERVIEW
 In this project, I aimed to explore and visualize sales data to provide insights into customer behavior and financial performance. analyze sales performance and customer behavior for a retail store. I utilized data analysis tools, including Excel, MySQL, and Power BI, to process, explore, and visualize retail sales and customer data.
 
@@ -17,27 +18,31 @@ In this project, I aimed to explore and visualize sales data to provide insights
 
 
 ## KEY OBJECTIVES
-- ### Data Exploration & Analysis in Excel
+1. ### Data Exploration & Analysis in Excel
   - #### Top-Selling Products Analysis:
     - Insights into which products are performing best, Identify top-selling products and high-performing regions
   - #### Summarization of sales and customer data:
     - using pivot tables to reveal total sales by product, region, and month.
-  - #### Calculate key metrics:
+  - #### Calculation of key metrics:
     - such as average sales per product and total revenue by region. 
   - #### Regional Performance Tracking:
     - Understanding sales across different regions, Generate customer insights to drive business decisions
-o	Monthly Sales Trends: Analysis of sales performance over time to identify seasonal patterns. Data-driven recommendations to enhance business decision-making
-1.	Data Extraction & Insights in SQL
-o	Loaded data into a SQL environment and wrote queries to derive insights, including:
-	Retrieve of total sales for each product category.
-	Count of sales transactions per region.
-	Identifying the highest-selling product by sales value.
-	Calculating total revenue per product.
-	Finding monthly sales totals.
-	List of the top 5 customers by total order amount.
-	Calculate each region's contribution to total sales.
-	Identify products with no sales in the last quarter.
-2.	Interactive Dashboard in Power BI
+  - #### Monthly Sales Trends:
+    - Analysis of sales performance over time to identify seasonal patterns.
+    - Data-driven recommendations to enhance business decision-making
+      
+2. ### Data Extraction & Insights in SQL
+  -  Loaded data into a SQL environment and wrote queries to derive insights, including:
+  -  Retrieval of total sales for each product category.
+  -  Count of sales transactions per region.
+  -  Identifying the highest-selling product by sales value.
+  -  Calculating total revenue per product.
+  -  Finding monthly sales totals.
+  -  List of the top 5 customers by total order amount.
+  -  Calculate each region's contribution to total sales.
+  -  Identify products with no sales in the last quarter.
+    
+3. ### Interactive Dashboard in Power BI
 o	Designed a dashboard to display:
 	Overall sales overview.
 	Top-performing products.
