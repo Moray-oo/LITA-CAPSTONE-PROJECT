@@ -3,10 +3,10 @@ Welcome to the repository for my Capstone Project, completed as part of a three-
 
 
 
-# PROJECT OVERVIEW
+## PROJECT OVERVIEW
 In this project, I aimed to explore and visualize sales data to provide insights into customer behavior and financial performance. analyze sales performance and customer behavior for a retail store. I utilized data analysis tools, including Excel, MySQL, and Power BI, to process, explore, and visualize retail sales and customer data.
 
-#PROJECT GOALS:
+## PROJECT GOALS:
 - Identify sales performance trends by product and region.
 - Analyze customer behavior and purchasing patterns.
 - Develop a dashboard for dynamic financial reporting
@@ -16,12 +16,16 @@ In this project, I aimed to explore and visualize sales data to provide insights
 -- The final deliverable is an interactive Power BI dashboard, designed for intuitive and efficient financial analysis.
 
 
-#KEY OBJECTIVES
-- ###Data Exploration & Analysis in Excel
-  - ####Top-Selling Products Analysis: Insights into which products are performing best, Identify top-selling products and high-performing regions
-  - ####Summarization of sales and customer data: using pivot tables to reveal total sales by product, region, and month.
-  - ###Calculate key metrics: such as average sales per product and total revenue by region. 
-  - ###Regional Performance Tracking: Understanding sales across different regions, Generate customer insights to drive business decisions
+## KEY OBJECTIVES
+- ### Data Exploration & Analysis in Excel
+  - #### Top-Selling Products Analysis:
+    - Insights into which products are performing best, Identify top-selling products and high-performing regions
+  - #### Summarization of sales and customer data:
+    - using pivot tables to reveal total sales by product, region, and month.
+  - #### Calculate key metrics:
+    - such as average sales per product and total revenue by region. 
+  - #### Regional Performance Tracking:
+    - Understanding sales across different regions, Generate customer insights to drive business decisions
 o	Monthly Sales Trends: Analysis of sales performance over time to identify seasonal patterns. Data-driven recommendations to enhance business decision-making
 1.	Data Extraction & Insights in SQL
 o	Loaded data into a SQL environment and wrote queries to derive insights, including:
