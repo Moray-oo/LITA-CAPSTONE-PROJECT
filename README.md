@@ -76,14 +76,14 @@ In this project, I aimed to explore and visualize sales data to provide insights
       - Power BI Dashboard: Power BI file showcasing the interactive dashboard and screenshots.
       
 ## SKILLS DEMONSTRATED
-    This repository serves as a showcase of my skills developed during the bootcamp, highlighting practical application in retail sales analysis through data-driven decision-making tools by 
+This repository serves as a showcase of my skills developed during the bootcamp, highlighting practical application in retail sales analysis through data-driven decision-making tools by 
       -	Data exploration and cleansing
       -	Metric calculation and KPI tracking
       -	Dashboard creation for financial insights
       -	Technical and analytical skills to present data in a way that supports strategic decision-making in retail sales.
 
 ## PROJECT GOALS and OUTCOMES
-    This Capstone Project reflects the skills and knowledge gained throughout the bootcamp, applying data analysis best practices to a real-world scenario. It demonstrates my  ability to analyze data effectively and generate insightful visualizations to support strategic business decisions. The interactive dashboard is designed to enable easy exploration of sales trends and regional performance, helping stakeholders make data-informed financial decisions.
+This Capstone Project reflects the skills and knowledge gained throughout the bootcamp, applying data analysis best practices to a real-world scenario. It demonstrates my  ability to analyze data effectively and generate insightful visualizations to support strategic business decisions. The interactive dashboard is designed to enable easy exploration of sales trends and regional performance, helping stakeholders make data-informed financial decisions.
     
 ## CONCLUSION
 This Capstone Project represents the culmination of my learning journey in data analysis. 
