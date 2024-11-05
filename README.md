@@ -54,12 +54,12 @@ In this project, I aimed to explore and visualize sales data to provide insights
         	Included an overview of sales, top-performing products, and regional performance breakdowns for easy exploration and reporting.
 
 ## TOOLS AND TECHNOLOGIES USED
-   ###  - Excel: 
-         -  Used for data cleaning, data manipulation, calculations, initial analysis exploratory analysis, creating pivot tables.
-   ###  - MySQL: 
-         - Employed to manage and query customer and sales data
-   ###  -	Power BI: 
-         - To create visual representations of data, making it accessible and comprehensible and Design of a dynamic dashboard to visualize key metrics and insights for easy financial analysis.
+###  - Excel: 
+     -  Used for data cleaning, data manipulation, calculations, initial analysis exploratory analysis, creating pivot tables.
+###  - MySQL: 
+     - Employed to manage and query customer and sales data
+###  -	Power BI: 
+     - To create visual representations of data, making it accessible and comprehensible and Design of a dynamic dashboard to visualize key metrics and insights for easy financial analysis.
 
 ## KEY COMPONENTS AND TECHNIQUES
   ### - Data Cleaning & Transformation: 
