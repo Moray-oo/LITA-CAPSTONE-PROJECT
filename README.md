@@ -43,12 +43,12 @@ In this project, I aimed to explore and visualize sales data to provide insights
       -  Identify products with no sales in the last quarter.
 
      3. ### Interactive Dashboard in Power BI
-      -	 Designed a dashboard to display:
-              -  Overall sales overview.
-              -  Top-performing products.
-              -	 Regional sales breakdown.
-              -	 Regional Performance
-              -	 Monthly sales trends.
+      -	Designed a dashboard to display:
+              - Overall sales overview.
+              - Top-performing products.
+              -	Regional sales breakdown.
+              -	Regional Performance
+              -	Monthly sales trends.
         - This dashboard offers a visually engaging interface for stakeholders to assess sales data and performance
         - Designing a Power BI dashboard to visualize the insights discovered in Excel and SQL.
         	Included an overview of sales, top-performing products, and regional performance breakdowns for easy exploration and reporting.
